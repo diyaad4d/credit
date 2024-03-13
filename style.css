@@ -1,0 +1,27 @@
+.credit{
+    height: 300px;
+    width: 500px;
+    background-color:  #FFC933;
+    border-radius: 20px;
+}
+.first-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 35px;
+    
+}
+.vv{
+    color: white;
+    font-size: 3rem;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    flex: 3 1 1 1;
+}
+.box-1{
+    background-color: red;
+    
+}
